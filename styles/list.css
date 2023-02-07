@@ -1,0 +1,7 @@
+li{
+    color:darkblue;
+}
+ol li{
+    display: inline;
+    background-color:rgb(215, 215, 71);
+}
